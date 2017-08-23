@@ -1,0 +1,22 @@
+From: =?utf-8?q?Yunusemre_=C5=9Eent=C3=BCrk?=
+ <yunusemre.senturk@pardus.org.tr>
+Date: Wed, 23 Aug 2017 17:15:18 +0300
+Subject: Change the line adobe flash player related
+
+---
+ freedesktop.org.xml.in | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/freedesktop.org.xml.in b/freedesktop.org.xml.in
+index d1c422c..6e81e59 100644
+--- a/freedesktop.org.xml.in
++++ b/freedesktop.org.xml.in
+@@ -3169,7 +3169,7 @@ command to generate the output files.
+     </magic>
+     <glob pattern="*.sh"/>
+   </mime-type>
+-  <mime-type type="application/vnd.adobe.flash.movie">
++  <mime-type type="application/x-shockwave-flash">
+     <_comment>Shockwave Flash file</_comment>
+     <alias type="application/x-shockwave-flash"/>
+     <alias type="application/futuresplash"/>

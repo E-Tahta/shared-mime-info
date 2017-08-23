@@ -1,0 +1,20 @@
+From: =?utf-8?q?Sebastian_Dr=C3=B6ge?= <slomo@debian.org>
+Date: Wed, 23 Aug 2017 17:12:56 +0300
+Subject: 158_no_directory_alias
+
+---
+ freedesktop.org.xml.in | 1 -
+ 1 file changed, 1 deletion(-)
+
+diff --git a/freedesktop.org.xml.in b/freedesktop.org.xml.in
+index 98c9491..d1c422c 100644
+--- a/freedesktop.org.xml.in
++++ b/freedesktop.org.xml.in
+@@ -4809,7 +4809,6 @@ command to generate the output files.
+   </mime-type>
+   <mime-type type="inode/directory">
+     <_comment>folder</_comment>
+-    <alias type="x-directory/normal"/>
+   </mime-type>
+   <mime-type type="inode/fifo">
+     <_comment>pipe</_comment>

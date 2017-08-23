@@ -1,5 +1,6 @@
-001_POTFILES.skip.patch
-060_pdf_priority.patch
-061_tex-matlab.patch
-150_mps-mime.patch
-158_no_directory_alias.patch
+0001-001_POTFILES.skip.patch
+0002-060_pdf_priority.patch
+0003-061_tex-matlab.patch
+0004-150_mps-mime.patch
+0005-158_no_directory_alias.patch
+0006-Change-the-line-adobe-flash-player-related.patch
