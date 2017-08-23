@@ -1,3 +1,9 @@
+shared-mime-info (1.3-1pardus1) yenikusak; urgency=high
+
+  * Add patches
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Wed, 23 Aug 2017 17:16:21 +0300
+
 shared-mime-info (1.3-1) unstable; urgency=low
 
   [ Ulrike Uhlig ]
